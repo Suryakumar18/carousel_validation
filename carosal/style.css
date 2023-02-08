@@ -1,0 +1,47 @@
+.carousel {
+    position: relative;
+ }           
+ .carousel-control-prev-icon {
+   position: absolute;
+   bottom: 120px;
+   left: 20px;
+   background-color: red !important;
+   top: 250.6000061035156px;
+   
+}
+
+.carousel-control-next-icon {
+   position: absolute;
+   bottom: 120px;
+   right: 20px;
+   background-color: red !important;
+   
+  
+}
+
+ .carousel-inner{
+    height: 300px;
+}
+.cont{
+   margin-top: 100px;
+   position: relative;
+}
+.val{
+   position: absolute;
+   display: none;
+   top: 160px;
+   left: 600px;
+   
+   
+}
+.close{
+   position: absolute;
+   left: 200px;
+
+}
+
+
+
+
+
+
